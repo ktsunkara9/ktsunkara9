@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Krishna Teja
 
-Lead Developer with **12+ years of experience** building **secure, scalable, cloud-native distributed systems** across aviation, finance, and publishing domains.
+**Lead Developer** with **12 years of experience** building **secure, scalable, cloud-native distributed systems** across aviation, finance, and publishing domains.
 
 I specialize in backend engineering, system design, and cloud platforms (AWS), with a strong focus on reliability, performance, and production readiness.
 
