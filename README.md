@@ -1,9 +1,10 @@
 ## 👋 Hi, I'm Krishna Teja
 
-**Lead Developer** with **12 years of experience** building **secure, scalable, cloud-native distributed systems** across aviation, finance, and publishing domains.
-
-I specialize in backend engineering, system design, and cloud platforms (AWS), with a strong focus on reliability, performance, and production readiness.
-
+Engineering Manager with 12+ years of experience leading high-performing teams and building scalable distributed systems on AWS. Currently managing a team of 
+12 engineers across US–India, delivering mission-critical platforms AI-powered engineering solutions. Led the development of Delta Trace, an organization-wide 
+GenAI-powered observability platform, reducing MTTR by 30% and improving system reliability to 99.9%. Brings hands-on experience spanning traditional ML 
+data pipelines, human-in-the-loop AI workflows, and modern GenAI applications, with a proven track record of driving technical strategy, engineering excellence, 
+cloud cost optimization (25%), and cross-functional collaboration. 
 ---
 
 ## 🧭 What I Do
@@ -24,11 +25,14 @@ I specialize in backend engineering, system design, and cloud platforms (AWS), w
 **Databases:** DynamoDB, MySQL, MongoDB  
 **Engineering Practices:** Microservices, System Design, CI/CD, TDD, Agile  
 **Security & Quality:** OAuth 2.0, JWT, SAST/DAST/SCA, JUnit  
-**AI & Automation:** Amazon Textract, Amazon Q, Prompt Engineering, AI-assisted developer workflows  
+**AI & Automation:**  Amazon Bedrock, Agent Core, Amazon SageMaker, SageMaker Data Wrangler, Human-in-the-Loop AI, ML Data Pipelines, RAG, Nova Pro, Anthropic 
+Claude, LangChain, Model Context Protocol, Agentic AI, Prompt Engineering, AWS Textract, AWS KIRO  
 
 ---
 
 ## 📌 Selected Work & Impact
+- Led development and adoption of Delta Trace, an organization-wide GenAI-powered observability platform used across 10+ teams and 50+ services, 
+reducing **MTTR** by **~30%** and eliminating tribal knowledge dependencies 
 - Delivered **99.9% API uptime** by engineering failover mechanisms for distributed systems
 - Reduced **cloud waste ~25%** through FinOps-driven re-architecture, TTL strategies, and automated resource optimization
 - Improved **UI performance by 50%** via RxJS optimization
@@ -46,8 +50,8 @@ I specialize in backend engineering, system design, and cloud platforms (AWS), w
 
 ---
 
-## 🤖 Applied AI (Learning & Practice)
-- Exploring practical applications of AI in backend and enterprise systems
+## 🤖 AI
+- Building Gen AI Platforms
 - Using LLMs and AI services to improve developer productivity, automation, and document processing
 - Hands-on experience with AWS AI services (e.g., Textract) and prompt engineering
 - Focused on **real-world integration**, cost-awareness, and production constraints rather than demos
@@ -55,9 +59,9 @@ I specialize in backend engineering, system design, and cloud platforms (AWS), w
 ---
 
 ## 🌍 Current Focus
+- Gen AI Platforms
 - Distributed systems & cloud-native architectures
 - Reliability engineering & cloud cost efficiency
-- Applied AI for backend systems and engineering productivity
 - System design & architectural decision-making
 - Mentoring and technical leadership
 
