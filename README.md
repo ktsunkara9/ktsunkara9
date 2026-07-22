@@ -1,4 +1,4 @@
-## 👋 Krishna Teja
+## 👋 Hi, I'm Krishna Teja
 
 Engineering Manager | AI Engineering | Distributed Systems | AWS | GenAI
 
