@@ -1,10 +1,13 @@
-## 👋 Hi, I'm Krishna Teja
+## 👋 Krishna Teja
 
-**Engineering Manager with 12+ years of experience leading high-performing teams and building scalable distributed systems on AWS. Currently managing a team of 
+Engineering Manager | AI Engineering | Distributed Systems | AWS | GenAI
+
+Engineering Manager with 12+ years of experience leading high-performing teams and building scalable distributed systems on AWS. Currently managing a team of 
 12 engineers across US–India, delivering mission-critical platforms AI-powered engineering solutions. Led the development of Delta Trace, an organization-wide 
 GenAI-powered observability platform, reducing MTTR by 30% and improving system reliability to 99.9%. Brings hands-on experience spanning traditional ML 
 data pipelines, human-in-the-loop AI workflows, and modern GenAI applications, with a proven track record of driving technical strategy, engineering excellence, 
-cloud cost optimization (25%), and cross-functional collaboration.** 
+cloud cost optimization (25%), and cross-functional collaboration.
+
 ---
 
 ## 🧭 What I Do
